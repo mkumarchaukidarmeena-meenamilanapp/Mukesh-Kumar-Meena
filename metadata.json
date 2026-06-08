@@ -1,0 +1,6 @@
+{
+  "name": "Meena Matrimony",
+  "description": "Meena Samaj Subh Vivah Matrimony App (मीणा समाज शुभ दम्पति मिलन केंद्र) - A holy matchmaking platform for the Meena community with profile search, gotra check, and bios offline saver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

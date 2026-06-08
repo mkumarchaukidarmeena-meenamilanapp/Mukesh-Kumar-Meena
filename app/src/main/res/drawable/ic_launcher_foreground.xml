@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rich Golden Traditional Heart for Holy Union Matches -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 54,30 C 42,18 20,18 20,40 C 20,62 54,84 54,84 C 54,84 88,62 88,40 C 88,18 66,18 54,30 Z" />
+    <!-- Center white elegant core spark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,39 C 48,33 34,33 34,45 C 34,57 54,69 54,69 C 54,69 74,57 74,45 C 74,33 60,33 54,39 Z" />
+    <!-- Divine Auspicious Wedding Sparkles -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 22,17 L 24,22 L 29,24 L 24,26 L 22,31 L 20,26 L 15,24 L 20,22 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 86,17 L 88,22 L 93,24 L 88,26 L 86,31 L 84,26 L 79,24 L 84,22 Z" />
+</vector>
